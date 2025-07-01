@@ -1,4 +1,5 @@
 # Rewrite30days v1.0.1 Release
+## 目前只有電腦版 PC only
 ### 為了避免瀏覽器誤判unity的exe檔為病毒，壓縮檔設置了密碼，密碼在文章內。
 ### To prevent browsers from mistakenly flagging the Unity .exe file as a virus, the archive has been password-protected. The password can be found in the article.
 ## preview
@@ -35,6 +36,7 @@ Twitter(X) - [**@Mi_kuNeko_**](https://twitter.com/Mi_kuNeko_)
 隨著好感度的提高，玩家將解鎖更多隨機事件，最終根據遊戲進程中的各項數值解鎲不同的結局。
 
 ## 【啟動與操作】
+[點擊Releases,點擊Asset中的Rewrite30days.v1.0.1.7z即可下載](https://github.com/PokeCatStudio/Rewrite30days/releases/tag/Release)
 點擊Rewrite30days.exe即可開始遊戲。
 - 左鍵/空白鍵可對話
 - 對話時可按住Ctrl鍵加速跳過
@@ -84,6 +86,7 @@ Throughout the game, players can raise various stats by chatting, touching, and 
 As your bond with Ru-chan deepens, more random events will be unlocked. Ultimately, the ending will be determined based on various stats accumulated during the game.
 
 ## 【Launch & Controls】
+[Click Releases, then click the Rewrite30days.v1.0.1.7z file under Assets to download.](https://github.com/PokeCatStudio/Rewrite30days/releases/tag/Release)
 Double-click Rewrite30days.exe to start the game.
 - Left Click / Spacebar: Proceed with dialogue  
 - Hold Ctrl during dialogue to skip quickly  
