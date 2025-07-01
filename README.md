@@ -1,9 +1,16 @@
 # Rewrite30days v1.0.1 Release
+## preview
+![image](https://github.com/PokeCatStudio/Rewrite30days/blob/e2066166ae04ff1c45d8f77e39c4b48aa18b0222/r30d_0.png)
+![image](https://github.com/PokeCatStudio/Rewrite30days/blob/e2066166ae04ff1c45d8f77e39c4b48aa18b0222/r30d_1.png)
+![image](https://github.com/PokeCatStudio/Rewrite30days/blob/e2066166ae04ff1c45d8f77e39c4b48aa18b0222/r30d_2.png)
+![image](https://github.com/PokeCatStudio/Rewrite30days/blob/e2066166ae04ff1c45d8f77e39c4b48aa18b0222/r30d_3.png)
+
 ## Scroll down for English version
 
 ## 【開發者的話】
 再次感謝您的支持！
 這是我的第一款遊戲，還請多多包涵！
+(意思是bug應該會很多)
 
 大概是一、兩年前，我曾用PowerPoint做了一張類似養成遊戲介面的圖。
 沒想到上了大學、就讀遊戲相關科系後，發現自己其實蠻能寫程式的，
@@ -13,8 +20,7 @@
 還有一直在Twitter等待的大家。
 
 本遊戲的玩法與 R18 部分參考自：
-エロフラ部製作的《不登校妹との30日間》
-https://www.dlsite.com/maniax/work/=/product_id/RJ01274558.html
+エロフラ部製作的[《不登校妹との30日間》](https://www.dlsite.com/maniax/work/=/product_id/RJ01274558.html)
 這款遊戲非常好玩，推薦給大家！
 (本作與原作無官方關聯，僅作為致敬與個人參考使用。)
 
@@ -47,6 +53,7 @@ Twitter(X) - [**@Mi_kuNeko_**](https://twitter.com/Mi_kuNeko_)
 ## 【A Message from the Developer】
 Thank you once again for your support!  
 This is my very first game, so please go easy on me!
+(which means there may be lots of bugs)
 
 Around a year or two ago, I made a mock-up of a training sim game UI using PowerPoint, just for fun.  
 After starting university and majoring in game development, I discovered I actually had a knack for programming...  
@@ -56,8 +63,7 @@ Special thanks to the friends in my Discord group who helped test the game,
 and to everyone who's been patiently waiting on Twitter.
 
 This game's concept and R18 elements are inspired by:  
-《不登校妹との30日間》 from エロフラ部
-https://www.dlsite.com/maniax/work/=/product_id/RJ01274558.html
+[《不登校妹との30日間》](https://www.dlsite.com/maniax/work/=/product_id/RJ01274558.html) from エロフラ部
 It's a great game and I highly recommend it!  
 (Note: This work is unofficial and not affiliated with the original. It is a personal homage and reference.)
 
