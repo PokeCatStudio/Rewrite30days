@@ -40,7 +40,7 @@ Twitter(X) - [**@Mi_kuNeko_**](https://twitter.com/Mi_kuNeko_)
 - 對話時可按住Ctrl鍵加速跳過
 - 更多詳細說明，請參見遊戲內的教學與說明。
 
-## 版權與免責聲明
+## 【版權與免責聲明】
 - 作品包含成人內容，未滿18歲者請勿遊玩。
 - 本作品為個人開發之同人遊戲，並非以營利為目的，禁止以任何形式進行逆向工程或盜版。
 - 遊戲中的模型購買自TararaTarako，其餘第三方資源紀錄於遊戲內。
@@ -50,6 +50,10 @@ Twitter(X) - [**@Mi_kuNeko_**](https://twitter.com/Mi_kuNeko_)
 若嘗試異常名稱過多，遊戲將限制啟動。
 敬請理解與配合。
 
+
+如果你喜歡這款遊戲，也歡迎支持我喔
+[Fanbox](https://mikuneko.fanbox.cc/)
+[Patreon](https://www.patreon.com/c/MikuNeko)
 --------
 密碼/Pass : PokeCatStudio
 --------
@@ -95,6 +99,11 @@ Double-click Rewrite30days.exe to start the game.
   Please refrain from using offensive, discriminatory, or controversial names.  
   Repeated attempts to enter inappropriate names may prevent the game from launching.  
   Thank you for your understanding and cooperation.
+
+  
+Feel free to support me if you liked the game!
+[Fanbox](https://mikuneko.fanbox.cc/)
+[Patreon](https://www.patreon.com/c/MikuNeko)
 
 2025/07/01
 Mi_kuNeko_
