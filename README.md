@@ -52,8 +52,8 @@ Twitter(X) - [**@Mi_kuNeko_**](https://twitter.com/Mi_kuNeko_)
 
 
 如果你喜歡這款遊戲，也歡迎支持我喔
-[Fanbox](https://mikuneko.fanbox.cc/)
-[Patreon](https://www.patreon.com/c/MikuNeko)
+- [Fanbox](https://mikuneko.fanbox.cc/)
+- [Patreon](https://www.patreon.com/c/MikuNeko)
 --------
 密碼/Pass : PokeCatStudio
 --------
@@ -102,8 +102,8 @@ Double-click Rewrite30days.exe to start the game.
 
   
 Feel free to support me if you liked the game!
-[Fanbox](https://mikuneko.fanbox.cc/)
-[Patreon](https://www.patreon.com/c/MikuNeko)
+- [Fanbox](https://mikuneko.fanbox.cc/)
+- [Patreon](https://www.patreon.com/c/MikuNeko)
 
 2025/07/01
 Mi_kuNeko_
