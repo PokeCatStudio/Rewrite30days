@@ -1,4 +1,6 @@
 # Rewrite30days v1.0.1 Release
+### 為了避免瀏覽器誤判unity的exe檔為病毒，壓縮檔設置了密碼，密碼在文章內。
+### To prevent browsers from mistakenly flagging the Unity .exe file as a virus, the archive has been password-protected. The password can be found in the article.
 ## preview
 ![image](https://github.com/PokeCatStudio/Rewrite30days/blob/e2066166ae04ff1c45d8f77e39c4b48aa18b0222/r30d_0.png)
 ![image](https://github.com/PokeCatStudio/Rewrite30days/blob/e2066166ae04ff1c45d8f77e39c4b48aa18b0222/r30d_1.png)
@@ -48,6 +50,8 @@ Twitter(X) - [**@Mi_kuNeko_**](https://twitter.com/Mi_kuNeko_)
 若嘗試異常名稱過多，遊戲將限制啟動。
 敬請理解與配合。
 
+--------
+密碼/Pass : PokeCatStudio
 --------
 
 ## 【A Message from the Developer】
