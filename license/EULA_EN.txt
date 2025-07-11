@@ -1,0 +1,28 @@
+END USER LICENSE AGREEMENT (EULA)
+
+This End User License Agreement ("Agreement") is a legal agreement between you (the "User") and PokeCatStudio ("Licensor") for the use of the game titled "Rewrite30days" ("Software").
+
+By installing or using this Software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE
+Licensor grants the User a non-transferable, non-exclusive, revocable license to install and use the Software solely for personal, non-commercial entertainment purposes.
+
+2. RESTRICTIONS
+You may NOT:
+- Modify, translate, reverse-engineer, decompile, or disassemble the Software.
+- Reproduce, distribute, publicly display, or resell the Software or any part of it.
+- Use the Software for any commercial purpose.
+- Access or unpack the game’s assets, code, or any underlying components.
+- Sub-license, rent, lease, or lend the Software.
+
+3. OWNERSHIP
+All intellectual property rights in the Software and any accompanying content remain with the Licensor. No ownership rights are transferred under this Agreement.
+
+4. TERMINATION
+This license is effective until terminated. Licensor may terminate it at any time if you breach any term of this Agreement. Upon termination, you must uninstall and destroy all copies of the Software.
+
+5. DISCLAIMER
+The Software is provided "as is," without warranty of any kind. Licensor is not liable for any damages resulting from use or misuse of the Software.
+
+6. GOVERNING LAW
+This Agreement shall be governed by the laws of Taiwan (Republic of China), without regard to conflict of law principles.
